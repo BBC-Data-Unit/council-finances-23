@@ -49,6 +49,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Belfast Live: [Newry, Mourne & Down council to make 2nd highest savings in UK](https://www.belfastlive.co.uk/news/northern-ireland/newry-mourne--down-council-27568809)
 * Birmingham Live: [est Midlands councils need to save millions amid funding 'black hole' - how yours is doing](https://www.birminghammail.co.uk/black-country/west-midlands-councils-need-save-27562150)
 * Manchester Evening News: [Three Greater Manchester councils set to be out of pocket by over £100 million due to finances 'black hole'](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/three-greater-manchester-councils-set-27560640)
+* My London: [Huge London council funding black holes revealed - see how much yours is in the red](https://www.mylondon.news/news/local-news/huge-london-council-funding-black-27565709)
 * The Scotsman: [Service fears as Scottish councils wield axe to make £300m of savings this year
 ](https://www.scotsman.com/business/consumer/cost-of-living/service-fears-as-scottish-councils-wield-axe-to-make-ps300m-of-savings-this-year-4261814)
 * The Scottish Daily Express: [Humza Yousaf warned against hammering Scots with more tax hikes to plug £1bn council black hole as SNP cuts bite](https://www.scottishdailyexpress.co.uk/news/politics/humza-yousaf-warned-against-hammering-30752195)
