@@ -44,6 +44,8 @@ Interactive table with lookup: Predicted savings and deficits at upper-tier loca
 
 This investigation featured across BBC platforms on the 21st of August 2023, including the [BBC News website](https://www.bbc.co.uk/news/uk-66428191), [News at Six](https://github.com/BBC-Data-Unit/council-finances-23/blob/355f7e625d0e1850f5662ed9ab29921abc0f2fcb/BBC%20usage/BBC_News_Channel-2023-08-21_18-19-55.mp4) and [Radio 4's Today](https://github.com/BBC-Data-Unit/council-finances-23/blob/acae9f6700669669359d028b8c31ae226e92453b/BBC%20usage/Radio_4_FM-2023-08-21_06-03-58.mp3), as well as around 20 other BBC radio outlets.
 
+![]([https://raw.githubusercontent.com/BBC-Data-Unit/rough-sleeping/master/LINE%20CHART%20Rise%20in%20rough%20sleeping%20across%20England.png](https://raw.githubusercontent.com/BBC-Data-Unit/council-finances-23/main/BBC%20usage/Councils-news-at-six.png))
+
 The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
 
 * Belfast Live: [Newry, Mourne & Down council to make 2nd highest savings in UK](https://www.belfastlive.co.uk/news/northern-ireland/newry-mourne--down-council-27568809)
