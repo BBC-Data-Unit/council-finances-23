@@ -42,7 +42,7 @@ Interactive table with lookup: Predicted savings and deficits at upper-tier loca
 
 ## BBC and partner usage
 
-This investigation featured across BBC platforms on the 21st of August 2023, including the [BBC News website](https://www.bbc.co.uk/news/uk-66428191), News at Six and Radio 4's Today, as well as around 20 other BBC radio outlets.
+This investigation featured across BBC platforms on the 21st of August 2023, including the [BBC News website](https://www.bbc.co.uk/news/uk-66428191), News at Six and [Radio 4's Today](https://github.com/BBC-Data-Unit/council-finances-23/blob/acae9f6700669669359d028b8c31ae226e92453b/BBC%20usage/Radio_4_FM-2023-08-21_06-03-58.mp3), as well as around 20 other BBC radio outlets.
 
 The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
 
