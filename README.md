@@ -55,7 +55,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Yorkshire Post: [Sheffield Council plans £48M of cuts to services as budget black hole looms](https://www.examinerlive.co.uk/news/local-news/sheffield-council-plans-48m-cuts-27560136)
 * Wales Online: [Massive council financial black hole revealed - how much your local authority is in the red](https://www.walesonline.co.uk/news/uk-news/massive-council-financial-black-hole-27551028) / [The huge black hole in Welsh local council finances](https://www.walesonline.co.uk/news/wales-news/huge-black-hole-welsh-local-27560680)
 
-The story also featured in the [Daily Express](https://www.express.co.uk/news/politics/1804333/councils-budget-deficit-area-checker-spt) and both print and digital editions of [The Times](https://www.thetimes.co.uk/article/councils-face-deficit-of-33m-by-2025-0c93r5k00). 
+The story also featured in the [Daily Express](https://www.express.co.uk/news/politics/1804333/councils-budget-deficit-area-checker-spt) and in both print and digital editions of [The Times](https://www.thetimes.co.uk/article/councils-face-deficit-of-33m-by-2025-0c93r5k00). 
 
 ## Related repo
 
