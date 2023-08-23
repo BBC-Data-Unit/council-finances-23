@@ -45,6 +45,7 @@ Interactive table with lookup: Predicted savings and deficits at upper-tier loca
 This investigation featured across BBC platforms on the 21st of August 2023, including the [BBC News website](https://www.bbc.co.uk/news/uk-66428191), [News at Six](https://github.com/BBC-Data-Unit/council-finances-23/blob/355f7e625d0e1850f5662ed9ab29921abc0f2fcb/BBC%20usage/BBC_News_Channel-2023-08-21_18-19-55.mp4) and [Radio 4's Today](https://github.com/BBC-Data-Unit/council-finances-23/blob/acae9f6700669669359d028b8c31ae226e92453b/BBC%20usage/Radio_4_FM-2023-08-21_06-03-58.mp3), as well as around 20 other BBC radio outlets.
 
 ![BBC Political Correspondent Alex Forsyth reporting on the council finances story in News at Six](https://raw.githubusercontent.com/BBC-Data-Unit/council-finances-23/main/BBC%20usage/Councils-news-at-six.png)
+*BBC Political Correspondent Alex Forstyh reporting on the council finances story on News at Six.*
 
 The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
 
