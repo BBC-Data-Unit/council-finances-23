@@ -55,7 +55,6 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * My London: [Huge London council funding black holes revealed - see how much yours is in the red](https://www.mylondon.news/news/local-news/huge-london-council-funding-black-27565709)
 * The Scotsman: [Service fears as Scottish councils wield axe to make £300m of savings this year
 ](https://www.scotsman.com/business/consumer/cost-of-living/service-fears-as-scottish-councils-wield-axe-to-make-ps300m-of-savings-this-year-4261814)
-* The Scottish Daily Express: [Humza Yousaf warned against hammering Scots with more tax hikes to plug £1bn council black hole as SNP cuts bite](https://www.scottishdailyexpress.co.uk/news/politics/humza-yousaf-warned-against-hammering-30752195)
 * The Yorkshire Post: [Sheffield Council plans £48M of cuts to services as budget black hole looms](https://www.examinerlive.co.uk/news/local-news/sheffield-council-plans-48m-cuts-27560136)
 * Wales Online: [Massive council financial black hole revealed - how much your local authority is in the red](https://www.walesonline.co.uk/news/uk-news/massive-council-financial-black-hole-27551028) / [The huge black hole in Welsh local council finances](https://www.walesonline.co.uk/news/wales-news/huge-black-hole-welsh-local-27560680)
 
