@@ -47,7 +47,7 @@ This investigation featured across BBC platforms on the 21st of August 2023, inc
 ![BBC Political Correspondent Alex Forsyth reporting on the council finances story in News at Six](https://raw.githubusercontent.com/BBC-Data-Unit/council-finances-23/main/BBC%20usage/Councils-news-at-six.png)
 *BBC Political Correspondent Alex Forsyth reporting on the council finances story on News at Six.*
 
-The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
+The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 80 stories, including:
 
 * Belfast Live: [Newry, Mourne & Down council to make 2nd highest savings in UK](https://www.belfastlive.co.uk/news/northern-ireland/newry-mourne--down-council-27568809)
 * Birmingham Live: [est Midlands councils need to save millions amid funding 'black hole' - how yours is doing](https://www.birminghammail.co.uk/black-country/west-midlands-councils-need-save-27562150)
